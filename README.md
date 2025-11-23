@@ -1,2 +1,2 @@
 # Mina
-Simple cakr recipes website 
+Simple cake recipes website 
